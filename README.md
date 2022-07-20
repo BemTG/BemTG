@@ -7,7 +7,8 @@
 
 #### I am a Google TensorFlow Certified Developer with deep interest in building AI systems for the upcoming decentralised Web 3.0 Data Economy.
 
-![BemTG's GitHub stats](https://github-readme-stats.vercel.app/api?username=BemTG&show_icons=true&theme=radical)
+
+<img align='center' height="70%" width="70%" src="https://github-readme-stats.vercel.app/api?username=BemTG&show_icons=true&theme=radical"/>
 
 #### Programming Languages & frameworks 📋
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
