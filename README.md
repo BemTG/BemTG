@@ -6,6 +6,7 @@
 ### Hi there, I'm Bem! 👋
 
 #### I am a Google TensorFlow Certified Developer with deep interest in building AI systems for the upcoming decentralised Web 3.0 Data Economy.
+#### Interests in Machine Learning, DeFi, Quantitative strategy development, Web 3.0 and the Open Metaverse.
 
 
 <img align='center' height="70%" width="70%" src="https://github-readme-stats.vercel.app/api?username=BemTG&show_icons=true&theme=radical"/>
