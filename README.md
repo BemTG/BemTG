@@ -1,11 +1,13 @@
 
+
+
+
+
 ### Hi there, I'm Bem! 👋
 
 #### I am a Google TensorFlow Certified Developer with deep interest in building AI systems for the upcoming decentralised Web 3.0 Data Economy.
 
-<img align="left" width="1050px" height="250px" src="https://github-readme-stats.vercel.app/api?username=BemTG&show_icons=true&theme=radical"/>
-
-<br/>
+![BemTG's GitHub stats](https://github-readme-stats.vercel.app/api?username=BemTG&show_icons=true&theme=radical)
 
 #### Programming Languages & frameworks 📋
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
