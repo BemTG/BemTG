@@ -7,7 +7,7 @@
 
 #### I am Google certified TensorFlow Developer with a deep interest in building AI systems for the upcoming decentralised Web 3.0 Data Economy. 
 
-####  I am the lead developer at [META DAO-Agents](https://medium.com/avalancheavax/winners-of-the-moralis-avalanche-hackathon-78879a6b2c16) and also the founder/owner [TranscribeMyAudio.ai](https://transcribemyaudio.ai/)
+####  I am the lead developer at [META DAO-Agents](https://medium.com/avalancheavax/winners-of-the-moralis-avalanche-hackathon-78879a6b2c16) and also the founder/owner at [TranscribeMyAudio.ai](https://transcribemyaudio.ai/)
 
 
 
