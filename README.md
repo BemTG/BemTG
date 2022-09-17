@@ -5,7 +5,9 @@
 
 ### Hi there, I'm Bem! 👋
 
-#### TensorFlow Certified Developer with a deep interest in building AI systems for the upcoming decentralised Web 3.0 Data Economy. 
+#### I am Google certified TensorFlow Developer with a deep interest in building AI systems for the upcoming decentralised Web 3.0 Data Economy. 
+
+#### I am also the founder and owner of TranscribeMyAudio.ai and the lead developer at Meta DAO-Agents. 
 
 
 
