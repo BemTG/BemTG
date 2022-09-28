@@ -5,7 +5,7 @@
 
 ### Hi there, I'm Bem Berake! 👋
 
-#### I am [Google certified TensorFlow Developer](https://www.credential.net/42498950-2968-48b3-91bc-1c6e84ca6aaa#gs.d1r2ep) with a deep interest in building AI systems for the upcoming decentralised Web3 Data Economy. 
+#### I am [Google certified TensorFlow Developer](https://www.credential.net/42498950-2968-48b3-91bc-1c6e84ca6aaa#gs.d1r2ep) with a deep interest in building AI systems to evaluate Blockchain protocols. 
 
 ####  I am the lead developer at [META DAO-Agents](https://medium.com/avalancheavax/winners-of-the-moralis-avalanche-hackathon-78879a6b2c16) and also the founder/owner of [TranscribeMyAudio.ai](https://transcribemyaudio.ai/)
 
