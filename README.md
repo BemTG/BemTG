@@ -7,8 +7,7 @@
 
 #### An Ethereum Protocol Fellow and Google-certified TensorFlow Developer with a deep interest in building AI systems for Blockchain protocols. 
 
-####  I am the lead developer at [META DAO-Agents](https://medium.com/avalancheavax/winners-of-the-moralis-avalanche-hackathon-78879a6b2c16) and also the founder of [TranscribeMyAudio.ai](https://transcribemyaudio.ai/)
-
+####  I am the lead developer at [META DAO-Agents](https://medium.com/avalancheavax/winners-of-the-moralis-avalanche-hackathon-78879a6b2c16)
 
 
 
