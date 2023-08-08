@@ -6,7 +6,7 @@
 ### Hi there, I'm Bem Baraki 👋
 
 #### An Ethereum Protocol Fellow and Google-certified TensorFlow Developer with a deep interest in building AI systems for Blockchain protocols. 
-####  Side projects include: [META DAO-Agents](https://medium.com/avalancheavax/winners-of-the-moralis-avalanche-hackathon-78879a6b2c16)
+#### Personal side projects include: [META DAO-Agents](https://medium.com/avalancheavax/winners-of-the-moralis-avalanche-hackathon-78879a6b2c16)
 
 
 
