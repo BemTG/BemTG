@@ -3,16 +3,22 @@
 
 
 
-### Hi there, I'm Bem Baraki 👋
+## Hi there, I'm Bem Baraki 👋
 
 #### An Ethereum (Core) Protocol Fellow and Google-certified TensorFlow Developer with a deep interest in building AI systems for Blockchain protocols. 
-#### Personal side projects include: [META DAO-Agents](https://medium.com/avalancheavax/winners-of-the-moralis-avalanche-hackathon-78879a6b2c16)
-#### Previous: Aerospace Engineering (HAP sat. comms.)
+
+## EPF research (previous highlights)
+####  [Eth Monitor project](https://hackmd.io/@BemBaraki/BJbijqIIi)
+####  [Eth Monitor demo vid](https://hackmd.io/@BemBaraki/Hy6Jz4RiA#/)
+####  [Investigation into network latency & live reorgs](https://hackmd.io/@BemBaraki/BJbijqIIi) 
 
 
 
+---
+##### Side project (hackathon) : [META DAO-Agents](https://medium.com/avalancheavax/winners-of-the-moralis-avalanche-hackathon-78879a6b2c16)
+##### Previous: Aerospace Engineering (HAP sat. comms.)
 
-
+--- 
 
 #### Programming Languages & frameworks 📋
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
