@@ -3,7 +3,7 @@
 
 
 
-## Hi there, I'm Bem Baraki 👋
+## Hi there, I'm Bem 👋
 
 #### An Ethereum (Core) Protocol Fellow and Google-certified TensorFlow Developer with a deep interest in building AI systems for Blockchain protocols. 
 
