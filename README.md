@@ -7,10 +7,10 @@
 
 #### An Ethereum (Core) Protocol Fellow and Google-certified TensorFlow Developer with a deep interest in building AI systems for Blockchain protocols. 
 
-## EPF research (previous highlights)
-####  [Eth Monitor project](https://hackmd.io/@BemBaraki/BJbijqIIi)
-####  [Eth Monitor demo vid](https://hackmd.io/@BemBaraki/Hy6Jz4RiA#/)
-####  [Investigation into network latency & live reorgs](https://hackmd.io/@BemBaraki/BJbijqIIi) 
+## EPF research (highlights)
+####  [Eth Monitor Project Scope](https://hackmd.io/@BemBaraki/BJbijqIIi)
+####  [Eth Monitor Demo vid](https://hackmd.io/@BemBaraki/Hy6Jz4RiA#/)
+#####  [Investigation into network latency & live reorgs](https://hackmd.io/@BemBaraki/r1D3sTZjj) 
 
 
 
