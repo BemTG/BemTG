@@ -10,9 +10,9 @@
 ## EPF Research (highlights) & ZKML Writeups
 ####  - [Eth Monitor Project Scope](https://hackmd.io/@BemBaraki/BJbijqIIi)
 ####  - [Eth Monitor Demo vid](https://hackmd.io/@BemBaraki/Hy6Jz4RiA#/)
-#####  - [Investigation into Ethereum Network Latency & Live Reorgs](https://hackmd.io/@BemBaraki/r1D3sTZjj) 
-#####  - [Provable Multiple Linear Regression Solver : Forecasting AAVE's Lifetime Repayments](https://orion.gizatech.xyz/academy/tutorials/provable-mlr-forecasting-aaves-lifetime-repayments) 
-#####  - [Provable Linear Regression Solver](https://orion.gizatech.xyz/academy/tutorials/verifiable-linear-regression-model-in-orion) 
+####  - [Investigation into Ethereum Network Latency & Live Reorgs](https://hackmd.io/@BemBaraki/r1D3sTZjj) 
+####  - [Provable Multiple Linear Regression Solver : Forecasting AAVE's Lifetime Repayments](https://orion.gizatech.xyz/academy/tutorials/provable-mlr-forecasting-aaves-lifetime-repayments) 
+####  - [Provable Linear Regression Solver](https://orion.gizatech.xyz/academy/tutorials/verifiable-linear-regression-model-in-orion) 
 
 
 
